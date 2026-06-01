@@ -13,3 +13,4 @@
 | 2026-04-09 | [作業二：成績一本通 part1](HW2_成績一本通_part1.ipynb) |從 Sheet 讀各次作業 / 測驗 → 計平時 / 期末 / 總成績 → 回寫成績總表 |
 | 2026-04-20 | [作業二：成績一本通 part2](HW2_成績一本通_part2.ipynb) |[:movie_camera:Youtube影片連結](https://youtu.be/xFri1rFUApo)|
 | 2026-05-09 | [作業三：待辦清單與番茄鐘紀錄](HW3_待辦清單與番茄鐘紀錄.ipynb) |[:movie_camera:Youtube影片連結](https://youtu.be/rGRAJBiPHwU)|
+| 2026-06-01 | [作業四：文字資料小分析](HW4_文字資料小分析.ipynb) |[:movie_camera:Youtube影片連結](https://youtu.be/OJ7rZnl1xr4)|
